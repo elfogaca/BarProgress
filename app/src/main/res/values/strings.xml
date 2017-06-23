@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bar Progr 1.8</string>
+
+    <string name="hello_world">Clique aqui: Sistema ELFO</string>
+    <string name="hello">Edmar Luiz Leone Fogaça</string>
+    <string name="world">Cruz Alta - RS - Brasil</string>
+    <string name="action_settings">Add ProgressBar in android.support</string>
+    <string name="action">.v7.widget.Toolbar-Andr.oid Eric</string>
+    <string name="act">Incluido Menu Settings</string>
+    <string name="settings">WebSite:https://elfogaca.</string>
+    <string name="set">wixsite.com/portifolio-elfo</string>
+    <string name="wor">Fogaça´s Home Page</string>
+    <string name="elfo">elfo ® 2017</string>
+
+    <string name="about">Sobre (clique aqui)</string>
+    <string name="about_body"><![CDATA[
+        Botão de ação flutuante, uma biblioteca by <a href="https://www.youtube.com/channel/UCdVAlmigRIbOnvg6Y_aEb2w">Canal Elfogaca</a>.<br/>
+        <a href=\'https://github.com/elfogaca/BarProgress\'>https://github.com/elfogaca/Bar Progr 1.8</a>
+    ]]></string>
+</resources>
